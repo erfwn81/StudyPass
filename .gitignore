@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# Conda/venv
+.venv/
+env/
+
+# OS
+.DS_Store
+*.log
+
+# Secrets
+.env.local
+.env.*.local

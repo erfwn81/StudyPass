@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r /tmp/ollama-extract/lib/ollama ~/.local/lib/)",
+      "Read(//tmp/ollama-extract/lib/**)"
+    ]
+  }
+}
